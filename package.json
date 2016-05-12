@@ -1,0 +1,15 @@
+{
+  "name": "wp-dev-toolbox",
+  "version": "0.0.1",
+  "description": "Developer toolbox for working with WP site and managing content.",
+  "main": "index.js",
+  "scripts": {
+		"start": "node index.js"
+	},
+  "author": "Benjamin Turner",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "simplecrawler": "^0.7.0"
+  }
+}
